@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MCC Wireless</string>
+    <string name="welcome">Welcome to MCC Wireless</string>
+    <string name="offers">Please choose additional options below</string>
+    <string name="basic">A Basic Phone Package consists of 2gb of data, 500 minutes, and 500 txt messages a month(all for only $10 a month)</string>
+    <string name="umlimited_text">Add Unlimited Text and Minutes (+$10 a month)</string>
+    <string name="ultima_phone">Upgrade to the Samsung AGoodSong phone (+$50 a month)</string>
+    <string name="submit_offer">Submit</string>
+    <string name="unlimited_data">Add Unlimited Data (+$15 )</string>
+    <string name="offer_accepted">Your wireless plan has been created.</string>
+    <string name="phone">Your phone number is 867-5309</string>
+    <string name="update_price">Update Price</string>
+    <string name="thankyou">Thank you for your business</string>
+    <string name="reset">Reset</string>
+</resources>
